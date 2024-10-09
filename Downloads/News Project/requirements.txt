@@ -1,0 +1,4 @@
+Flask
+Flask-SQLAlchemy
+feedparser
+psycopg2-binary  # For PostgreSQL database interaction (if using PostgreSQL)
